@@ -53,10 +53,7 @@ This project takes the indicators of a region in year *t* and predicts the WRI o
 - **Four risk levels**: Low, Moderate, High, Very High, derived from the quartiles of WRI.
 - **Demo mode**: if the API is not running, the UI shows clearly labelled placeholder data so it can still be explored. The sidebar says **"Demo data (API not running)"**.
 
-## Screenshots
 
-> Put your screenshots in `docs/images/` and update the file names below.
-> Take them **while the Flask API is running** (sidebar shows *Connected to model API*) so they show real results.
 
 | Dashboard | Model Comparison | Risk Ranking |
 |---|---|---|
