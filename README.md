@@ -54,11 +54,6 @@ This project takes the indicators of a region in year *t* and predicts the WRI o
 - **Demo mode**: if the API is not running, the UI shows clearly labelled placeholder data so it can still be explored. The sidebar says **"Demo data (API not running)"**.
 
 
-
-| Dashboard | Model Comparison | Risk Ranking |
-|---|---|---|
-| ![Dashboard](docs/images/dashboard.png) | ![Model comparison](docs/images/model-comparison.png) | ![Risk ranking](docs/images/risk-ranking.png) |
-
 ## How It Works
 
 ```
@@ -353,9 +348,8 @@ Please verify bibliographic details against the original sources before citing.
 
 ## Author and License
 
-**Author:** [Your Name] ([Enrollment No.]), B.Tech CSE, ITM University, Gwalior
-**Guide:** Mr. Neeraj Goyal, Assistant Professor, SOET
-**Course:** Deep Learning (CSE0711)
+**Author:** Divyanshu BETN1CS23125, B.Tech CSE, ITM University, Gwalior
+
 
 License: [choose a license, e.g. MIT, and add a `LICENSE` file]
 
