@@ -1,4 +1,4 @@
-# 🌍 Disaster Risk Prediction: Deep Learning + React Dashboard
+# 🌍 Disaster Risk Prediction: ML/DL + React Dashboard
 
 Forecast a region's **next-year World Risk Index (WRI)** from its previous-year risk indicators using a TensorFlow MLP, compare it with four classical ML models, and explore everything in an interactive React dashboard.
 
